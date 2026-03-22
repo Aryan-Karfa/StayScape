@@ -17,8 +17,8 @@ export const listings = [
     images: [
       "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&q=80&w=800",
       "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&q=80&w=800"
       "https://images.unsplash.com/photo-1600607687931-57d427d14e1a?auto=format&fit=crop&q=80&w=800",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&q=80&w=800",
       "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=800"
     ],
     amenities: ["Ocean View", "Private Pool", "WiFi", "Air Conditioning", "Kitchen"],
