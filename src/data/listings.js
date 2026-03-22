@@ -45,8 +45,8 @@ export const listings = [
     images: [
       "https://images.unsplash.com/photo-1582610116397-edb318620f90?auto=format&fit=crop&q=80&w=800",
       "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&q=80&w=800",
-      "https://images.unsplash.com/photo-1590059300643-45bb96434447?auto=format&fit=crop&q=80&w=800",
       "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1590059300643-45bb96434447?auto=format&fit=crop&q=80&w=800",
       "https://images.unsplash.com/photo-1590059300305-b0406830cb85?auto=format&fit=crop&q=80&w=800"
     ],
     amenities: ["Lake View", "Courtyard", "Daily Breakfast", "AC", "Concierge"],
@@ -101,8 +101,8 @@ export const listings = [
     images: [
       "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&q=80&w=800",
       "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=800",
-      "https://images.unsplash.com/photo-1440778132958-81e05d9e52c8?auto=format&fit=crop&q=80&w=800",
       "https://images.unsplash.com/photo-1473081556163-2a17de81fc97?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1440778132958-81e05d9e52c8?auto=format&fit=crop&q=80&w=800",
       "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&q=80&w=800"
     ],
     amenities: ["Jungle View", "Balcony", "Breakfast Included", "WiFi", "Coffee Maker"],
@@ -156,9 +156,9 @@ export const listings = [
     image: "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&q=80&w=800",
     images: [
       "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&q=80&w=800",
-      "https://images.unsplash.com/photo-1502672260266-1c1c2b1e42ba?auto=format&fit=crop&q=80&w=800",
       "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=800",
       "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1502672260266-1c1c2b1e42ba?auto=format&fit=crop&q=80&w=800",
       "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&q=80&w=800"
     ],
     amenities: ["City View", "Rooftop Terrace", "Plunge Pool", "AC", "WiFi"],
@@ -184,9 +184,9 @@ export const listings = [
     image: "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&q=80&w=800",
     images: [
       "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&q=80&w=800",
-      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&q=80&w=800",
       "https://images.unsplash.com/photo-1600607687931-57d427d14e1a?auto=format&fit=crop&q=80&w=800",
       "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&q=80&w=800",
       "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=800"
     ],
     amenities: ["Garden View", "Fireplace", "Chef on call", "Library", "WiFi"],
@@ -213,8 +213,8 @@ export const listings = [
     images: [
       "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&q=80&w=800",
       "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&q=80&w=800",
-      "https://images.unsplash.com/photo-1600607687931-57d427d14e1a?auto=format&fit=crop&q=80&w=800",
       "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1600607687931-57d427d14e1a?auto=format&fit=crop&q=80&w=800",
       "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=800"
     ],
     amenities: ["Valley View", "Private Pool", "Games Room", "AC", "BBQ Grill"],
@@ -269,8 +269,8 @@ export const listings = [
     images: [
       "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?auto=format&fit=crop&q=80&w=800",
       "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&q=80&w=800",
-      "https://images.unsplash.com/photo-1590059300643-45bb96434447?auto=format&fit=crop&q=80&w=800",
       "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1590059300643-45bb96434447?auto=format&fit=crop&q=80&w=800",
       "https://images.unsplash.com/photo-1590059300305-b0406830cb85?auto=format&fit=crop&q=80&w=800"
     ],
     amenities: ["Waterfront", "Chef Included", "Sun Deck", "AC", "Full Board"],
@@ -297,8 +297,8 @@ export const listings = [
     images: [
       "https://images.unsplash.com/photo-1534880606858-29b0e8a24e8d?auto=format&fit=crop&q=80&w=800",
       "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=800",
-      "https://images.unsplash.com/photo-1440778132958-81e05d9e52c8?auto=format&fit=crop&q=80&w=800",
       "https://images.unsplash.com/photo-1473081556163-2a17de81fc97?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1440778132958-81e05d9e52c8?auto=format&fit=crop&q=80&w=800",
       "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&q=80&w=800"
     ],
     amenities: ["Jungle View", "AC", "Guided Tours", "Outdoor Shower", "Fire Pit"],
@@ -325,8 +325,8 @@ export const listings = [
     images: [
       "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&q=80&w=800",
       "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&q=80&w=800",
-      "https://images.unsplash.com/photo-1600607687931-57d427d14e1a?auto=format&fit=crop&q=80&w=800",
       "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1600607687931-57d427d14e1a?auto=format&fit=crop&q=80&w=800",
       "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=800"
     ],
     amenities: ["Valley View", "Floor Heating", "WiFi", "Grill", "Terrace"],
