@@ -4,7 +4,7 @@ A production-grade, full-featured property rental platform frontend built with
 React, Tailwind CSS v4, and Framer Motion. Designed as a portfolio-defining
 project that feels like a real funded startup product — not a basic clone.
 
-![StayScape](https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=1200&q=80)
+![StayScape](./public/screenshot.png)
 
 ---
 
@@ -85,7 +85,7 @@ Password: DemoAccount123
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/stayscape.git
+git clone https://github.com/Aryan-Karfa/stayscape.git
 cd stayscape
 
 # Install dependencies
